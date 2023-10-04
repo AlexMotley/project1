@@ -7,3 +7,5 @@ this is an awesome project!
 
 ## Author
 [Author](author.md)
+
+Something new to make a conflict
