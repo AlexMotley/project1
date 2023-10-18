@@ -9,3 +9,7 @@ this is an awesome project!
 [Author](author.md)
 
 Something new to make a conflict
+
+# Ссылка на Wiki
+https://github.com/AlexMotley/project1.wiki.git
+
